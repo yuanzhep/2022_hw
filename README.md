@@ -1,1 +1,1 @@
-# 2022_hw
+# Artificial_Intelligence_hw_fall_2022
